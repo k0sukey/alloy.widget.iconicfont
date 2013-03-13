@@ -2,9 +2,9 @@
 [TiIconicFont](https://github.com/k0sukey/TiIconicFont) on Alloy widget.
 
 ### Usage
-* Copy to [wigets](https://github.com/k0sukey/alloy.widgets.iconicfont/tree/master/app/widgets) files your Alloy project.
+* Copy to [wigets](https://github.com/k0sukey/alloy.widget.iconicfont/tree/master/app/widgets) files your Alloy project.
 * Create folder app/assets/fonts and copy to font files app/assets/fonts/*.ttf
-* Edit tiapp.xml
+* Edit [tiapp.xml](https://github.com/k0sukey/alloy.widget.iconicfont/blob/master/tiapp.xml)
 
 ```
 <ios>
@@ -21,7 +21,7 @@
 </ios>
 ```
 
-* Add [config.json](https://github.com/k0sukey/alloy.widgets.iconicfont/blob/master/app/config.json) dependencies.
+* Add [config.json](https://github.com/k0sukey/alloy.widget.iconicfont/blob/master/app/config.json) dependencies.
 
 ```
 "dependencies": {
@@ -30,7 +30,7 @@
     "be.k0suke.sspika": "1.0"
 }
 ```
-* Edit [view](https://github.com/k0sukey/alloy.widgets.iconicfont/blob/master/app/views/index.xml) and [style](https://github.com/k0sukey/alloy.widgets.iconicfont/blob/master/app/styles/index.tss)
+* Edit [view](https://github.com/k0sukey/alloy.widget.iconicfont/blob/master/app/views/index.xml) and [style](https://github.com/k0sukey/alloy.widget.iconicfont/blob/master/app/styles/index.tss)
 
 index.xml
 
