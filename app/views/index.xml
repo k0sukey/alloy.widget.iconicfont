@@ -1,0 +1,7 @@
+<Alloy>
+	<Window class="container">
+		<Widget id="fontawesome" class="icon" icon="icon-github" src="be.k0suke.fontawesome"/>
+		<Widget id="ligaturesymbols" class="icon" icon="hatena" src="be.k0suke.ligaturesymbols"/>
+		<Widget id="sspika" class="icon" icon="notifications disabled" src="be.k0suke.sspika"/>
+	</Window>
+</Alloy>

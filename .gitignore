@@ -1,0 +1,8 @@
+.DS_Store
+.settings
+build.log
+build
+npm-debug.log
+tmp
+*.ttf
+Resources
