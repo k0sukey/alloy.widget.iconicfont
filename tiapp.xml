@@ -37,7 +37,7 @@
                     <string>/fonts/LigatureSymbols.ttf</string>
                     <string>/fonts/ss-pika.ttf</string>
                 </array>
-            </dict> 
+            </dict>
         </plist>
     </ios>
     <android xmlns:android="http://schemas.android.com/apk/res/android"/>
@@ -51,6 +51,7 @@
     </mobileweb>
     <modules/>
     <deployment-targets>
+        <target device="tizen">false</target>
         <target device="blackberry">false</target>
         <target device="android">true</target>
         <target device="ipad">true</target>
