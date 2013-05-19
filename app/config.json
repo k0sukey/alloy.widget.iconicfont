@@ -8,6 +8,7 @@
     "dependencies": {
         "be.k0suke.fontawesome": "1.0",
         "be.k0suke.ligaturesymbols": "1.0",
-        "be.k0suke.sspika": "1.0"
+        "be.k0suke.sspika": "1.0",
+        "be.k0suke.glyphicon": "1.0"
     }
 }
