@@ -2,10 +2,10 @@ function SSSocial(options) {
 	switch (Ti.Platform.osname) {
 		case 'iphone':
 		case 'ipad':
-			this.fontfamily = 'SSSocialRegular';
+			this.fontfamily = 'SS Social';
 			break;
 		case 'android':
-			this.fontfamily = 'SSSocialRegular';
+			this.fontfamily = 'ss-social';
 	}
 
 	this.charcode = {
