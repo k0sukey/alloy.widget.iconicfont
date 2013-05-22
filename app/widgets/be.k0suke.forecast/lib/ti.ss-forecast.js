@@ -2,10 +2,10 @@ function SSForecast(options) {
 	switch (Ti.Platform.osname) {
 		case 'iphone':
 		case 'ipad':
-			this.fontfamily = 'SSForecast';
+			this.fontfamily = 'SS Forecast';
 			break;
 		case 'android':
-			this.fontfamily = 'SSForecast';
+			this.fontfamily = 'ss-forecast';
 	}
 
 	this.charcode = {
