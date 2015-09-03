@@ -39,5 +39,7 @@ exports.getProperties = function(option){
 	'show',
 	'toImage'
 ].forEach(function(func){
-	exports[func] = $.Widget[func];
+	exports[func] = function () {
+		$.Widget[func].apply($.Widget, arguments);
+	};
 });
